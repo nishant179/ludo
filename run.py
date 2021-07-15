@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from ludo.cli import CLIGame
+from Ludo-Game-in-Python-master.cli import CLIGame
 
 
 CLIGame().start()
